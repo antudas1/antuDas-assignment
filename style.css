@@ -56,8 +56,8 @@ body{
     background-color: rgb(163, 194, 79);
     border-radius: 15px;
     padding: 10px;
-    margin-bottom: 70px;
     margin: 10px;
+    margin-bottom: 50px;
 }
 .div2 img{
     width: 30%;
@@ -114,4 +114,41 @@ body{
 }
 .ot{
     color: rgb(206, 87, 32);
+}
+.socile{
+    display: flex;
+}
+.last{
+    text-align: center;
+    color: royalblue;
+    font-size: 50pt;
+}
+.socile img
+{
+    width: 80%;
+    margin-right: 300px;
+    border-radius: 15px;
+
+}
+.socile{
+    width: 50%;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+
+}
+.link{
+    background-color: rgb(235, 155, 27);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+.footerr{
+    background-color: rgb(13, 63, 138);
+    text-align: center;
+    color: white;
+}
+.mi{
+    color: black;
 }
