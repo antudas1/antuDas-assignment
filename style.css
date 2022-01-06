@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section1{
+    display: flex;
+    
+}
+.div1{
+    width: 50%;
+    padding: 5%;
+}
+.div1 img{
+    width: 50%;
+    
+}
+.span1{
+    color: rgb(209, 134, 12);
+    font-size: 500;
+}
+#h11{
+    border-left: 7px solid rgb(240, 226, 28);
+    border-radius: 5px;
+    padding: 5px;
+}
+.button1{
+    background-color: rgb(235, 153, 2);
+    border-radius: 7px;
+    padding: 8px;
+    text-decoration: none;
+    color:white ;
+    
+}
+.section2{
+    display: flex;
+    
+}
+.div2{
+    width: 31%;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    margin-bottom: 80px;
+}
+.div2 img{
+    width: 30%;
+}
+.section3{
+    display: flex;
+    background-image:url(images/shapes/shape-1.png) ;
+    background-repeat: no-repeat;
+    background-size: 180px;
+    background-position: left center;
+}
+.div3{
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.div3 img{
+    width: 110%;
+}
+.button2{
+    background-color: rgb(235, 155, 27);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+.section4{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 210px;
+    background-position: right bottom
+}
+.div4{
+    width: 50%;
+    margin-left: 50px;
+    margin-bottom: 80px;
+}
+.div4 img{
+    width: 80%;
+    margin-right: 50spx;
+}
